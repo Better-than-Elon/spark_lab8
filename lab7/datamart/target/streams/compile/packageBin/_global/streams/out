@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\datamart_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataMart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\classes\DataMart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataMart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\classes\DataMart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\classes\db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	db\DbConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\classes\db\DbConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\stfu_\OneDrive\Desktop\BigData\Spark\send\lab7\datamart\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

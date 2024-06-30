@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lab7
+  namespace: spark-lab8
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lab7
+  template:
+    metadata:
+      name: lab7
+      labels:
+        app: lab7
+    spec:
+      containers:
+        - name: lab7
+          image: aruko/spark-lab7:1.0
+          imagePullPolicy: IfNotPresent
+          resources:
+            requests:
+              memory: 2Gi
+            limits:
+              memory: 2Gi
+          env:
+            - name: ORACLE_PWD
+              value: "12345"
+            - name: HST_NM
+              value: "oradb"
+          command: [ "/bin/sh","-c" ]
+          args: [ "python cluster.py" ]
